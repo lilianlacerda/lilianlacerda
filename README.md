@@ -53,9 +53,9 @@
 
 <table align="center">
     <tr>
-      <td><img src="./images/cinema.gif" width="280px" height="200px"></td>
-      <td><img src="./images/cubo.gif" width="280px" height="200px"> </td>
-      <td><img src="./images/musica.gif" width="280px" height="200px"> </td>
+      <td><img src="./images/cinema.gif" width="260px" height="200px"></td>
+      <td><img src="./images/cubo.gif" width="260px" height="200px"> </td>
+      <td><img src="./images/musica.gif" width="260px" height="200px"> </td>
     </tr>
 </table>
 
