@@ -61,5 +61,5 @@
 
 ***
 ![lilianlacerda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lilianlacerda&theme=highcontrast&hide_border=false)
-![lilianlacerda's Stats](https://github-readme-stats.vercel.app/api?username=lilianlacerda&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 ![lilianlacerda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilianlacerda&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+![lilianlacerda's Stats](https://github-readme-stats.vercel.app/api?username=lilianlacerda&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
