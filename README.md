@@ -67,6 +67,5 @@
 ![lilianlacerda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilianlacerda&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 ![Snake animation](https://github.com/lilianlacerda/lilianlacerda/blob/output/github-contribution-grid-snake.svg)
 
-
 </div>
 
