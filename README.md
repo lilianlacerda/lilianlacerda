@@ -67,10 +67,10 @@
 </table>    
 
 ***
-<div align="center">
-        
-![lilianlacerda's Stats](https://github-readme-stats.vercel.app/api?username=lilianlacerda&theme=outrun&show_icons=true&hide_border=false&count_private=true)
-![lilianlacerda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lilianlacerda&theme=outrun&hide_border=false)
-
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=lilianlacerda&theme=outrun&show_icons=true&hide_border=true&count_private=true" width="390px" height="280px"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=lilianlacerda&theme=outrun&hide_border=true" width="390px" height="280px"/></td>
+  </tr>
+</table>
 
