@@ -57,10 +57,9 @@
       <td><img src="./images/cubo.gif" width="249px" height="200px"> </td>
       <td><img src="./images/musica.gif" width="249px" height="200px"> </td>
     </tr>
-</table>
+</table>    
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lilianlacerda&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lilianlacerda&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lilianlacerda&theme=tokyonight) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lilianlacerda&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=lilianlacerda&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
-| :-: | :-: |
+***
+![lilianlacerda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lilianlacerda&theme=highcontrast&hide_border=false)
+![lilianlacerda's Stats](https://github-readme-stats.vercel.app/api?username=lilianlacerda&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![lilianlacerda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilianlacerda&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
