@@ -42,9 +42,16 @@
 
 ### Principais Projetos
 - [Lista de filmes](https://github.com/lilianlacerda/NewFilmList)
-- [MyMetas -  Projeto Transforme-se](https://github.com/Transforme-se/ProjetoPI) 
+- [MyMetas -  Projeto Transforme-se](https://github.com/Transforme-se/ProjetoPI)
 
-# Minhas curiosidades
+<div align="center">
+    
+![lilianlacerda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilianlacerda&theme=outrun&show_icons=true&hide_border=false&layout=compact)
+![Snake animation](https://github.com/lilianlacerda/lilianlacerda/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+# 🎲 Minhas curiosidades
 - 🎬 Amo filmes, principalmente nacionais, terror e romance. 
 - 🎧 Música e podcasts me acompanham o tempo todo.  
 - 🧵 Estou me aventurando no bordado, um desafio que me acalma.  
@@ -61,11 +68,9 @@
 
 ***
 <div align="center">
-    
+        
 ![lilianlacerda's Stats](https://github-readme-stats.vercel.app/api?username=lilianlacerda&theme=outrun&show_icons=true&hide_border=false&count_private=true)
 ![lilianlacerda's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lilianlacerda&theme=outrun&hide_border=false)
-![lilianlacerda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilianlacerda&theme=outrun&show_icons=true&hide_border=false&layout=compact)
-![Snake animation](https://github.com/lilianlacerda/lilianlacerda/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
