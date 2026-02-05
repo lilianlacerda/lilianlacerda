@@ -43,7 +43,7 @@
 </p>
 
 ### Principais Projetos
-- [Lista de filmes](https://github.com/lilianlacerda/NewFilmList)
+- [Lista de filmes](https://github.com/lilianlacerda/movieList)
 - [MyMetas -  Projeto Transforme-se](https://github.com/Transforme-se/ProjetoPI)
 - [Diário de Saúde](https://github.com/lilianlacerda/diario-saude)
 
