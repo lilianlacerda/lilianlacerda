@@ -23,11 +23,11 @@
 # 💻 Sobre mim
 <p>
     Meu nome é Lilian, sou formada em <strong>Análise e Desenvolvimento de Sistemas (2021)</strong> e estou em busca de uma oportunidade como <strong>Desenvolvedora Júnior</strong>.
-    Participei do programa <strong>Transforme-se da Serasa Experian</strong> e sou apaixonada por tecnologia, sempre pensando em ideias que possam ajudar as pessoas por meio dela.
+    Sou apaixonada por tecnologia, sempre pensando em ideias que possam ajudar as pessoas por meio dela.
 </p>
 <p>    
     Aqui no GitHub compartilho meus projetos pessoais e registro meu crescimento na área de desenvolvimento.
-    Tenho maior familiaridade com Backend, mas também estou expandindo meus conhecimentos em outras áreas para me tornar uma desenvolvedora cada vez mais completa.
+    Tenho maior familiaridade com Desenvolvimento Full Stack, mas também estou expandindo meus conhecimentos em outras áreas para me tornar uma desenvolvedora cada vez mais completa.
 </p>
 
 <table align="center">
@@ -49,7 +49,6 @@
 
 <div align="center">
     
-![lilianlacerda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilianlacerda&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 ![Snake animation](https://github.com/lilianlacerda/lilianlacerda/blob/output/github-contribution-grid-snake.svg)
 
 </div>
@@ -72,7 +71,6 @@
 ***
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=lilianlacerda&theme=outrun&show_icons=true&hide_border=true&count_private=true" width="390px" height="280px"/></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=lilianlacerda&theme=outrun&hide_border=true" width="390px" height="280px"/></td>
   </tr>
 </table>
